@@ -14,7 +14,7 @@ namespace Addressbook
         public string city { get; set; }
         public string state { get; set; }
         public int zip { get; set; }
-        public int phoneNo { get; set; }
+        public double phoneNo { get; set; }
         public string email { get; set; }
     }
 }
