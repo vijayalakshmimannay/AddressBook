@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Addressbook
+namespace addressbook
 {
-    internal class Contacts
+    public class contacts
     {
-        public string fName { get; set; }
-        public string lName { get; set; }
+        public string firstname { get; set; }
+        public string lastname { get; set; }
         public string address { get; set; }
         public string city { get; set; }
         public string state { get; set; }

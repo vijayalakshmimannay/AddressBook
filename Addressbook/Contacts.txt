@@ -1,0 +1,3 @@
+﻿Vijaya,lakshmi,6/72,Vijayawada,AndhraPradesh,521329,9553945305,abc.xyz@bl.co.in
+Harsha,lakshmi,412,Madhurawada,AndhraPradesh,530045,9553945505,xyzabc@gmail.com
+Sravya,Harsha,Vijayawada,5/75,Madhurawada,AndhraPradesh,521329,9553943503,abc.xyz@bl.co.in
