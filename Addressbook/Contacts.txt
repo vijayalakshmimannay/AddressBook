@@ -1,3 +1,4 @@
-﻿Vijaya,lakshmi,6/72,Vijayawada,AndhraPradesh,521329,9553945305,abc.xyz@bl.co.in
-Harsha,lakshmi,412,Madhurawada,AndhraPradesh,530045,9553945505,xyzabc@gmail.com
-Sravya,Harsha,Vijayawada,5/75,Madhurawada,AndhraPradesh,521329,9553943503,abc.xyz@bl.co.in
+﻿Vijaya,Lakshmi,6-72,Vizag,AndhraPradesh,530045,919554954305,lakshmi@yahoo.com
+Vijaya,Lakshmi,6-72,
+Vijaya,Lakshmi,6-72,Hyderabad,Telangana,500045,919554856306,lakshmi@yahoo.com
+Vijaya,Talluri,6-72,Vizag,AndhraPradesh,521329,9553954606,vijaya@yahoo.com
